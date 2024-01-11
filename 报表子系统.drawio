@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="1uGZBgdL_OIhMIv63Fma" name="第 1 页">
+        <mxGraphModel dx="576" dy="-670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="查看项目数据" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="1230" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="导出项目数据" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="1290" width="106" height="55" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;strokeWidth=1;endSize=6;" edge="1" parent="1" source="3" target="2">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="245.13583509747406" y="122.90569415042114" as="sourcePoint"/>
+                        <mxPoint x="160.00416490252593" y="137.0943058495791" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;endArrow=classic;endFill=1;endSize=6;" edge="1" parent="1" source="6" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="项目管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="1250" width="30" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
